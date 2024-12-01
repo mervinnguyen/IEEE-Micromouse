@@ -37,3 +37,5 @@ One primary purpose of this year-long project was to foster problem-solving skil
 Beyond the technical skills, the project emphasizes teamwork and collaboration. Building a Micromouse robot often requires dividing tasks, sharing knowledge, and overcoming obstacles as a group. This collaborative environment mirrors the dynamics of professional engineering projects, preparing participants for future endeavors in the field.
 
 Feel free to contribute, modify, and build upon this project to take it to new heights!
+
+![Micromouse](Micromouse.jpg)
