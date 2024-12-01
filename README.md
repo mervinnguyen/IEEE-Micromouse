@@ -38,4 +38,4 @@ Beyond the technical skills, the project emphasizes teamwork and collaboration. 
 
 Feel free to contribute, modify, and build upon this project to take it to new heights!
 
-![Micromouse](Micromouse.jpg)
+![Micromouse](micromouse.jpg)
