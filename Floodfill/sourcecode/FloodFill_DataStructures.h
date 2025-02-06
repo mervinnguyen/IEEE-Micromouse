@@ -18,7 +18,7 @@ enum Direction {
     WEST = 1,
 };
 
-enum DirectionBitmask {
+enum Direction {
     NORTH_MASK = 0b1000,
     EAST_MASK  = 0b0100,
     SOUTH_MASK = 0b0010,
