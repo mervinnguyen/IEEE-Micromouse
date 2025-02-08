@@ -1,5 +1,5 @@
 # Micromouse - Institute of Electrical and Electronic Engineers
-"Macro Rat" is an autonomouse robot designed to navigate and solve maze problems using FloodFill. In this repository, I share how my team and I achieved this with invaluable guidance from some incredibly supportive individuals. 
+Macro Rat is an autonomouse robot designed to navigate and solve maze problems using FloodFill. In this repository, I share how my team and I achieved this with invaluable guidance from some incredibly supportive individuals. 
 
 # Robotics
 
