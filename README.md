@@ -19,15 +19,6 @@ tips, and the lessons I learned along the way. If you're passionate about roboti
 
 This hardware forms the foundation of the Micromouse robot, enabling precise control, movement, and sensing for autonomous maze navigation.
 
-- Arduino Uno: The brain of the system, processing inputs and controlling outputs.
-- 2.2-inch Flex Sensors: To detect finger movements and translate them into electrical signals.
- Servo Motors: To actuate the fingers of the robotic hand.
-- 10k Ohm Resistors: As pull-down resistors for stabilizing sensor readings.
- Fishing Strings: Acting as tendons to pull the robotic fingers.
-- Elastic Rope: Providing tension for returning fingers to their original positions.
-- Glove: A wearable interface for capturing the user’s movements.
-- 3D-Printed Arm Model: To house the servos and mimic a realistic robotic arm.
-
 # Purpose of this project
 
 The "Macro Rat" Embedded Systems project is designed to introduce to new Embedded System Engineers the foundational concepts of robotics, electronics, and programming in a hands-on, engaging way. By building a robot capable of autonomously navigating a maze, participants develop a deep understanding of how various hardware components and algorithms interact to achieve a complex maze through our algorithms and advanced data structures. This project serves as an ideal starting point for anyone looking to explore the exciting field of robotics.
